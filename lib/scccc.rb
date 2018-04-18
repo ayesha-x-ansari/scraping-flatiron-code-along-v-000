@@ -38,6 +38,3 @@ class Scraper
 end
 
 Scraper.new.print_courses
-
-
-puts "COURSE: "   + course
