@@ -20,7 +20,7 @@ class Scraper
       course.schedule = post.css(".date").text
       course.description = post.css("p").text
 
-      puts  course
+
     end
   end
 
